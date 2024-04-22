@@ -1,0 +1,3 @@
+[submodule "themes/attention"]
+	path = themes/attention
+	url = github-cmu:tongyul/attention-theme-zola
