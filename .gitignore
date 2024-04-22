@@ -1,2 +1,7 @@
-/themes/
-/public/
+.DS_Store
+.vscode
+.idea
+*.sublime-*
+*.vim
+/themes
+/public
