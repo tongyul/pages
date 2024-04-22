@@ -17,4 +17,4 @@ every single day and I'm in a lot of misery for that.
 ---
 
 Built with [Zola](https://getzola.org); theme
-[tongyul/attention-theme-zola](https://tongyul.github.io/attention-theme-zola)
+[tongyul/attention-theme-zola](https://github.com/tongyul/attention-theme-zola)
