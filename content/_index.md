@@ -1,5 +1,5 @@
 +++
-title = "Meoww~ from Rain :3"
+title = "rain.cule.me"
 template = "section.html"
 +++
 
@@ -15,6 +15,8 @@ draw* or *take photos*. I also just started learning to play *acoustic guitar*.
 I'm also uhhh in some academic trouble? I'm interested in programming languages
 and hyperfixate on thinking about stuff completely unrelated from school
 (beyond course scopes) every single day and I'm in a lot of misery for that.
+
+{{ pagesAnchor(label="Might Be Interesting…") }}
 
 [^zola]: Built with [Zola](https://getzola.org) using my own theme
     [tongyul/attention-theme-zola](https://tongyul.github.io/attention-theme-zola)
