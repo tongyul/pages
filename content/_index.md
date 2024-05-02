@@ -1,6 +1,7 @@
 +++
 title = "rain.cule.me"
 template = "section.html"
+sort_by = 'title'
 +++
 
 # Meoww~ from Rain :3
