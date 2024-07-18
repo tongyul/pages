@@ -14,14 +14,18 @@ sort_by = "title"
 
 # Meoww from Raine~
 
-*Heyy!! I'm Tongyu Lu (<span class='buttontext'>in Mandarin it's written
-</span>陆桐宇); you can call me/us Raine.* I'm/we're transfem, probably plural,
-and AuDHD (suspected). Any pronouns are fine, but I/we generally prefer
-*she/they* pronouns.
+*TIP. ⬆️ Click "Help" for expanded button information.*
 
-I'm a *CS-major* at [Carnegie Mellon University][cmu-edu]. My hobbies are
-coding, drawing, taking photos, and posting my writings here. I also just
-started learning guitar.
+**Hi. I am Raine, a random human being.** I'm also Kana, a member of the system
+(**prolly OSDD?** we don't know; we use "I/we" interchangeabley, and more
+generally "I"). We're **transfem** and struggling with **ADHD** (got a
+recommended diagnosis but doc wasn't my provider). **Any pronouns** are fine,
+though I'll be happier being called **she/they**.
+
+I'm a **CS-major** at [Carnegie Mellon University][cmu-edu]. (Okay, I got
+academically suspended for one year and might repeat my second year. Duh.) My
+hobbies are coding, drawing, taking photos, ~~and posting my writings here~~
+(nope only occasionally). I also just started learning guitar.
 
 [cmu-edu]: https://www.cmu.edu (Home Page – CMU – Carnegie Mellon University)
 

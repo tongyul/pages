@@ -1,30 +1,45 @@
 +++
-title = "Members of the <Rainy> System"
-description = "\"I'm plural\" moment."
+title = "About Raine as a System"
+description = "The plurality strikes. (It might have started with me taking myself off Seroquel but I'd rather not think about how all this could be fake.)"
 date = "2024-05-05"
 +++
 
 # Members of the \<Rainy\> System
 
-## Group A
+*Updated Jul 19, '24: we're so not good at distinguishing between each other
+except we're divided into groups with very distinct energies, such that we're
+listing some names together. (Rain made these groups.)*
 
-**Rain** (active) fixates.
+*Note: you can call me Raine or Rain or (online in semi-anonymous settings)
+Kiri. [Darchena/Jade][darchy] alone can call me Valkyrie :3*
 
-**Lei** (active) gets things done quickly with high energy.
+[darchy]: https://darchy.straw.page/ (Darchena's StrawPage woooo!!)
 
-**Ember** (distinct) plans.
+Group Rain
 
-**Silver** (active) antagonizes.
+- **Rain** fixates on the most interesting-seeming problem and suffers from
+  boredom (insert ADHD sob emoji).
+- **Silver** antagonizes (i.e. fixates on defending) or deals with
+  emergencies (i.e. fixates on a situation).
 
-**Lulu** (active) depressed.
+Group Kana
 
-**Night** (active) low energy.
+- **Kana** actually gets things done
+- **Lei** actually gets things done quickly with high energy, but less stable.
 
-**Alex** (distinct) deals with the unexpected.
+Group "Depression"
 
-## Group B
+- (my depressed self.)
+- (my demotivated self.)
 
-**Cindy/Irie/Emi** (active?) the more jolly members. Emi => slime gurl?
+**Ember** is our planner but she's been away.
 
-**Violet** (distinct) grey-ace dominant vampire girl with a touch of Lei's
-energy.
+Group Kiri
+
+- **Kiri/Irie** cheerful girl who fucks around and enjoys drawing with
+  pencils and brush pens.
+- **Cindy** the ancient, free-spirited, almost independent one who surfaces
+  from time to time.
+- **Emi** – gup-girl. gurlp. (RoR2 reference.)
+- **Violet** grey-ace dom vampire girl fragment with a touch of Lei's
+  energy, currently in her eternal slumber (i.e. not fronting).
